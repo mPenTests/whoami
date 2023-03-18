@@ -100,5 +100,6 @@ h2 {
 }
 
 p {
-    font-size: 25px;
+    font-size: 23px;
+    white-space: pre-line
 }
